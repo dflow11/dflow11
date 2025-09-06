@@ -1,8 +1,8 @@
-## Hello, I'm Diego!
+## 👋 Hello, I'm Diego!
 
-- Computer Science Student @ UIC | Software Engineering Concentration<br/>
-- I make projects to master coding fundamentals and learn new programming tools<br/>
-- To contact me, connect with me on [LinkedIn](https://www.linkedin.com/in/diego-flores-71739729b/)<br>
+- I am a Computer Science Student @ UIC with an interest in Software Engineering <br/>
+- I make projects to master coding fundamentals, learn new programming languages and tools, and expand my tech stack<br/>
+- To contact me, connect with me on [LinkedIn](https://www.linkedin.com/in/diego-flores-71739729b/)!<br>
 
 
 # 💻 Tech Stack:
@@ -12,4 +12,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=dflow11&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dflow11&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
