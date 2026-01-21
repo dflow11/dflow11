@@ -2,7 +2,7 @@
 
 - I am a Computer Science Student @ UIC with an interest in Software Engineering <br/>
 - I make projects to master coding fundamentals, learn new programming languages and tools, and expand my tech stack<br/>
-- To contact me, connect with me on [LinkedIn](https://www.linkedin.com/in/diego-flores-71739729b/)!<br>
+- To contact me, connect with me on [LinkedIn](https://www.linkedin.com/in/diegoantonioflores/)!<br>
 
 
 
